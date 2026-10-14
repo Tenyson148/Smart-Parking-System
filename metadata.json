@@ -1,0 +1,6 @@
+{
+  "name": "ParkFlow MySQL Manager",
+  "description": "Minimal Parking Management System with real-time occupancy, duration-based billing, slot reservation, passes, payments, and Review 3 verification test suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
